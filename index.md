@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello jekyll!
+title: Hello 夕阳!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
