@@ -13,14 +13,12 @@ tagline: 新一代移动办公软件
 
 我是一个段落:
     
-    title : My Blog =)
-    
-      author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
 
-The theme should reference these variables whenever needed.
     
+      内容
+
+图片.
+
+
+![](http://developer.qiniu.com/牛小七.png?imageMogr2/thumbnail/300x300/gravity/North/crop/300x185)
 
