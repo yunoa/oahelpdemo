@@ -11,7 +11,7 @@ tagline: 新一代移动办公软件
 
 ## 项目
 
-In `_config.yml` remember to specify your own data:
+我是一个段落:
     
     title : My Blog =)
     
